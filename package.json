@@ -1,6 +1,6 @@
 {
   "name": "backupdb",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "backup container based psql database periodically using node-schedule",
   "main": "index.js",
   "scripts": {
